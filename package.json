@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tensorflow/tfjs": "4.22.0",
-    "@types/d3": "^5.7.0",
+    "@types/d3": "^7.4.3",
     "@types/jquery": "^3.5.33",
     "@types/stats": "^0.16.30",
     "@types/three": "^0.93.17",

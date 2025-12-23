@@ -37,6 +37,6 @@
     "dexie": "^3.2.2",
     "parcel-bundler": "^1.12.3",
     "typescript": "^5.9.3",
-    "yalc": "~1.0.0-pre.22"
+    "yalc": "~1.0.0-pre.53"
   }
 }

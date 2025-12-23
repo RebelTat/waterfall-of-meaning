@@ -33,7 +33,7 @@
     "babel-polyfill": "~6.26.0",
     "babel-preset-env": "~1.6.1",
     "clang-format": "~1.2.2",
-    "cross-env": "~5.1.6",
+    "cross-env": "~10.1.0",
     "dexie": "^3.2.2",
     "parcel-bundler": "^1.12.3",
     "typescript": "^3.0.3",
